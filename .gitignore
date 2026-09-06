@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+outputs/
+runs/
+*.pt
+*.onnx
+*.engine
+*.mp4
+*.avi
+*.mov
+*.mkv
+.idea/
+.vscode/
