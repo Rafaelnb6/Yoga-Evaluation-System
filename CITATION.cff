@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ren"
+  given-names: "Zhenyu"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  affiliation: "燕山大学 体育学院"
+title: "Yoga-Evaluation-System"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-09-06
+url: "https://github.com/Rafaelnb6/Yoga-Evaluation-System"
